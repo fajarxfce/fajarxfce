@@ -1,75 +1,68 @@
-# NURUL FAJAR
-
-**Email:** [nfajar@protonmail.com](mailto:nfajar@protonmail.com)  
-**Nomor:** +62 852 1497 3159
-**LinkedIn:** [linkedin.com/in/fajarn](https://linkedin.com/in/fajarn)  
-**GitHub:** [github.com/fajarxfce](https://github.com/fajarxfce)
-
 ---
 
-## PENDAHULUAN
+# Nurul Fajar
+<span class="iconify" data-icon="tabler:brand-github"></span> [github.com/fajarxfce](https://github.com/fajarxfce)
+  : <span class="iconify" data-icon="tabler:phone"></span> [+628-521-497-3158](https://wa.me/11234567890)
 
+<span class="iconify" data-icon="ic:outline-location-on"></span> Cirebon, West Java, Indonesia
+  : <span class="iconify" data-icon="tabler:brand-linkedin"></span> [linkedin.com/in/fajarn](https://linkedin.com/in/fajarn)
+  : <span class="iconify" data-icon="tabler:mail"></span> [nfajar@protonmail.com](mailto:nfajar@protonmail.com)
 
----
+## Profile
 
-## PENGALAMAN KERJA
+<p align="justify">
+I am a fresh graduate from Universitas Komputer Indonesia with a Bachelor's degree in Informatics Engineering, and I have a strong passion for Android development. I have hands-on experience in building Android applications using Kotlin and Java, with a focus on Clean Architecture and multi-module project structures. I am proficient in designing responsive and modern user interfaces using both XML and Jetpack Compose, and I have experience implementing Hilt for efficient and scalable dependency injection.
+</p>
 
-**PT. Media Akses Data (Internship)**  
-_Cirebon, Indonesia | Agustus 2023 – November 2023_  
-**Android Developer**  
-- Membangun aplikasi fiber optic management untuk membantu memetakan jaringan fiber optic.
+## Experience
 
----
+**PT. Media Akses Data** (Internship)
 
-## PENDIDIKAN
+*Android Developer*
 
-**Universitas Komputer Indonesia**  
-_Teknik Informatika | 2020 - 2024_  
-**IPK:** 3.11
+: **Sep 2023 - Dec 2023**
 
-**SMK Islamic Centre**  
-_Teknik Komputer dan Jaringan | 2016 - 2019_  
----
+- Developed Android applications using Java and Android Views (XML).
+- Implemented fundamental features such as activity navigation, SQLite database usage, and API calls using Retrofit.
+- Conducted application testing and debugging to enhance performance.
 
-## KETERAMPILAN TEKNIS
+**PT. Media Akses Data (fortytv.id)** (Freelance)
 
-**Bahasa Pemrograman:** PHP, Java, Kotlin  
-**Back End:** PHP (Laravel)  
-**Basis Data:** MySQL, Oracle, Firebase (Firestore, Realtime Database)  
-**Perkantoran:** Microsoft Word, Excel, PowerPoint, Libre Office
+*Android Developer*
 
----
+: **Feb 2024 - Feb 2025**
 
-## PORTFOLIO
+- Built a custom Android TV launcher for hotels using Jetpack Compose, Hilt, and modular architecture.
+- Developed an HLS-based IPTV streaming application for watching TV broadcasts over the internet.
+- Optimized UI performance for Android TV devices and implemented a minimalist design.
+- Implemented dependency injection with Hilt and a modular project structure for scalability.
 
-**ID Fiber Mapping**  
-Deskripsi: Aplikasi fiber optic management berbasis android untuk membantu memetakan jaringan fiber optic.
-_Teknologi:_ Java, PHP (Laravel), Livewwire
+## Projects
 
-**Forty TV Launcher**  
-Deskripsi: Custom launcher Android TV untuk kebutuhan hotel dan rumah sakit   
-_Teknologi:_ Kotlin, XML, PHP (Laravel), Livewire
+- **Hotel Android TV Launcher** **Description:** A specialized Android TV launcher for hotels providing content and services for guests, including hotel information, room service, and access to applications like IPTV. Developed with a modular architecture and customizable to meet the needs of individual hotels.  
+  **Technologies:** Jetpack Compose, Hilt, Modular, Android TV
 
-**Forty TV IPTV**  
-Deskripsi: Aplikasi untuk menonton siaran TV secara online  
-_Teknologi:_ PHP Native, MySQL, API Digiflazz, API Piwapi, Bootstrap CSS
+- **IPTV Streaming App** **Description:** An IPTV application for watching TV broadcasts over the internet using HLS. Specifically designed for hotels with high performance and a modular architecture.  
+  **Technologies:** ExoPlayer (HLS), Retrofit, Hilt, Jetpack Compose
 
----
+- **IDFiber Mapping** **Description:** An Android application for field technicians to map fiber optic networks, recording terminal points (ODP) and cable routes.  
+  **Technologies:** Android Views, Google Maps SDK, Java
 
-## SERTIFIKAT
-- **Junior Web Programmer** – 07 Maret 2024, _Badan Nasional Sertifikasi Profesi_
+- **Cashier Application** **Description:** A cashier application built with Jetpack Compose, featuring transaction processing, product management, and sales history. Utilizes a modular architecture with Gradle build convention.  
+  **Technologies:** Jetpack Compose, Hilt, Room, Multi-Module, Gradle Convention  
+  **Repository :** <span class="iconify"></span> [github.com/fajarxfce/CashierMultiModule](https://github.com/fajarxfce/CashierMultiModule)
 
----
+## Education
 
-## BAHASA
+**Informatics Engineering** : **Sep 2020 - May 2025**
 
-- **Bahasa Indonesia:** Menengah  
-- **English:** Basic Proficiency
+Universitas Komputer Indonesia  
+: Bandung, Indonesia
 
----
+## Skills
 
-## LINK TAMBAHAN
+**Programming Languages:** <span class="iconify" data-icon="vscode-icons:file-type-kotlin"></span> Kotlin, <span class="iconify" data-icon="logos:java" data-inline="false"></span> Java, <span class="iconify" data-icon="logos:php" data-inline="false"></span> PHP
 
-- [https://tokoindah.top](https://tokoindah.top)  
-- [https://kebutuhansosmed.com](https://kebutuhansosmed.com)  
-- [https://sobatcash.com](https://sobatcash.com)
+**Tools and Frameworks:** Jetpack Compose, Android Views, Hilt, Retrofit, Room, Git, Modular Architecture, Material Design
+
+**Languages:** English (proficient), Indonesian (native)
