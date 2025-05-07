@@ -2,7 +2,7 @@
 
 # Nurul Fajar
 <span class="iconify" data-icon="tabler:brand-github"></span> [github.com/fajarxfce](https://github.com/fajarxfce)
-  : <span class="iconify" data-icon="tabler:phone"></span> [+628-521-497-3158](https://wa.me/11234567890)
+  : <span class="iconify" data-icon="tabler:phone"></span> [+628-521-497-3158](https://wa.me/6285214973158)
 
 <span class="iconify" data-icon="ic:outline-location-on"></span> Cirebon, West Java, Indonesia
   : <span class="iconify" data-icon="tabler:brand-linkedin"></span> [linkedin.com/in/fajarn](https://linkedin.com/in/fajarn)
@@ -39,7 +39,7 @@ I am a fresh graduate from Universitas Komputer Indonesia with a Bachelor's degr
 
 ## Projects
 
-- **Hotel Android TV Launcher** **Description:** A specialized Android TV launcher for hotels providing content and services for guests, including hotel information, room service, and access to applications like IPTV. Developed with a modular architecture and customizable to meet the needs of individual hotels.  
+- **Android TV Launcher** **Description:** A specialized Android TV launcher for hotels providing content and services for guests, including hotel information, room service, and access to applications like IPTV. Developed with a modular architecture and customizable to meet the needs of individual hotels.  
   **Technologies:** Jetpack Compose, Hilt, Modular, Android TV
 
 - **IPTV Streaming App** **Description:** An IPTV application for watching TV broadcasts over the internet using HLS. Specifically designed for hotels with high performance and a modular architecture.  
@@ -56,8 +56,12 @@ I am a fresh graduate from Universitas Komputer Indonesia with a Bachelor's degr
 
 **Informatics Engineering** : **Sep 2020 - May 2025**
 
-Universitas Komputer Indonesia  
+Universitas Komputer Indonesia  (GPA : 3.11)
 : Bandung, Indonesia
+
+## Certificates
+
+- **Junior Web Programmer** - *Badan Nasional Sertifikasi Profesi* (07 Maret 2024)
 
 ## Skills
 
