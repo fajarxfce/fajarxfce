@@ -2,7 +2,7 @@
 
 # Nurul Fajar
 <span class="iconify" data-icon="tabler:brand-github"></span> [github.com/fajarxfce](https://github.com/fajarxfce)
-  : <span class="iconify" data-icon="tabler:phone"></span> [+628-521-497-3158](https://wa.me/6285214973158)
+  : <span class="iconify" data-icon="tabler:phone"></span> [+628-521-497-3158](https://wa.me/11234567890)
 
 <span class="iconify" data-icon="ic:outline-location-on"></span> Cirebon, West Java, Indonesia
   : <span class="iconify" data-icon="tabler:brand-linkedin"></span> [linkedin.com/in/fajarn](https://linkedin.com/in/fajarn)
@@ -38,17 +38,28 @@ I am a fresh graduate from Universitas Komputer Indonesia with a Bachelor's degr
 - Implemented dependency injection with Hilt and a modular project structure for scalability.
 
 ## Projects
+- **Hotel Android TV Launcher** 
+  
+  <p align="justify">A specialized Android TV launcher for hotels providing content and services for guests, including hotel information, room service, and access to applications like IPTV. Developed with a modular architecture and customizable to meet the needs of individual hotels. </p>
 
-- **Android TV Launcher** **Description:** A specialized Android TV launcher for hotels providing content and services for guests, including hotel information, room service, and access to applications like IPTV. Developed with a modular architecture and customizable to meet the needs of individual hotels.  
   **Technologies:** Jetpack Compose, Hilt, Modular, Android TV
 
-- **IPTV Streaming App** **Description:** An IPTV application for watching TV broadcasts over the internet using HLS. Specifically designed for hotels with high performance and a modular architecture.  
+- **IPTV Streaming App** 
+  
+  <p align="justify">An IPTV application for watching TV broadcasts over the internet using HLS. Specifically designed for hotels with high performance and a modular architecture. </p>
+
   **Technologies:** ExoPlayer (HLS), Retrofit, Hilt, Jetpack Compose
 
-- **IDFiber Mapping** **Description:** An Android application for field technicians to map fiber optic networks, recording terminal points (ODP) and cable routes.  
+- **IDFiber Mapping** 
+
+  <p align="justify">An Android application for field technicians to map fiber optic networks, recording terminal points (ODP) and cable routes. </p>
+
   **Technologies:** Android Views, Google Maps SDK, Java
 
-- **Cashier Application** **Description:** A cashier application built with Jetpack Compose, featuring transaction processing, product management, and sales history. Utilizes a modular architecture with Gradle build convention.  
+- **Cashier Application** 
+
+  <p align="justify">A cashier application built with Jetpack Compose, featuring transaction processing, product management, and sales history. Utilizes a modular architecture with Gradle build convention. </p>
+  
   **Technologies:** Jetpack Compose, Hilt, Room, Multi-Module, Gradle Convention  
   **Repository :** <span class="iconify"></span> [github.com/fajarxfce/CashierMultiModule](https://github.com/fajarxfce/CashierMultiModule)
 
@@ -56,12 +67,8 @@ I am a fresh graduate from Universitas Komputer Indonesia with a Bachelor's degr
 
 **Informatics Engineering** : **Sep 2020 - May 2025**
 
-Universitas Komputer Indonesia  (GPA : 3.11)
+Universitas Komputer Indonesia  
 : Bandung, Indonesia
-
-## Certificates
-
-- **Junior Web Programmer** - *Badan Nasional Sertifikasi Profesi* (07 Maret 2024)
 
 ## Skills
 
