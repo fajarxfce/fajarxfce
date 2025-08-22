@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fajarxfce&label=Profile%20views&color=0e75b6&style=flat" alt="fajarxfce" /> </p>
 
-- 🌱 I’m currently learning **Jetpack Compose**
+- 🌱 I’m currently learning **Compose Multiplatform**
 
 - 👨‍💻 All of my projects are available at [https://www.cake.me/me/nfajar/portfolios](https://www.cake.me/me/nfajar/portfolios)
 
