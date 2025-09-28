@@ -16,15 +16,16 @@ Mobile developer with hands-on experience building modern applications using And
 
 ## Experience
 
-**PT. Media Akses Data** (Internship)
+**PT. Rasa Aksata Nusantara (Duluin)** (Internship)
 
-*Android Developer*
+*Mobile Developer*
 
-: **Sep 2023 - Dec 2023**
+: **Aug 2025 - Present**
 
-- Developed Android applications using Java and Android Views (XML).
-- Implemented fundamental features such as activity navigation, SQLite database usage, and API calls using Retrofit.
-- Conducted application testing and debugging to enhance performance.
+- Contributed to the development of a Human Resource Management System (HRMS) mobile application.
+- Implemented Clean Architecture and Flutter BLoC to improve code maintainability, scalability, and testability.
+- Refactored the MVC-based structure into a more robust and industry-standard architecture.
+- Collaborated with the development team to ensure high-quality, consistent, and production-ready features.
 
 **PT. Media Akses Data (fortytv.id)** (Freelance)
 
@@ -36,6 +37,16 @@ Mobile developer with hands-on experience building modern applications using And
 - Built an HLS-based IPTV streaming application  
 - Optimized UI performance for Android TV devices and implemented a minimalist design.
 - Implemented dependency injection with Hilt and a modular project structure for scalability.
+
+**PT. Media Akses Data** (Internship)
+
+*Android Developer*
+
+: **Sep 2023 - Dec 2023**
+
+- Developed Android applications using Java and Android Views (XML).
+- Implemented fundamental features such as activity navigation, SQLite database usage, and API calls using Retrofit.
+- Conducted application testing and debugging to enhance performance.
 
 ## Projects
 - **Hotel Android TV Launcher** 
