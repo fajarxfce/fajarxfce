@@ -49,6 +49,13 @@ Mobile developer with hands-on experience building modern applications using And
 - Conducted application testing and debugging to enhance performance.
 
 ## Projects
+- **BlocFx** 
+  
+  <p align="justify">A Flutter package that extends flutter_bloc with Effect streams for handling single-shot events separately from state. Inspired by MVI (Model-View-Intent) architecture pattern. </p>
+
+  **Technologies:** Flutter  
+  **Repository :** <span class="iconify"></span> [https://pub.dev/packages/blocfx](https://pub.dev/packages/blocfx)
+
 - **Hotel Android TV Launcher** 
   
   <p align="justify">A specialized Android TV launcher for hotels providing content and services for guests, including hotel information, room service, and access to applications like IPTV. Developed with a modular architecture and customizable to meet the needs of individual hotels. </p>
