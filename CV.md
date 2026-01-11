@@ -16,7 +16,7 @@ Mobile developer with hands-on experience building modern applications using And
 
 ## Experience
 
-**PT. Rasa Aksata Nusantara (Duluin)** (Internship)
+**PT. Rasa Aksata Nusantara (Duluin)** (Fulltime)
 
 *Mobile Developer*
 
@@ -51,7 +51,7 @@ Mobile developer with hands-on experience building modern applications using And
 ## Projects
 - **BlocFx** 
   
-  <p align="justify">A Flutter package that extends flutter_bloc with Effect streams for handling single-shot events separately from state. Inspired by MVI (Model-View-Intent) architecture pattern. </p>
+  <p align="justify">A Flutter package that extends flutter_bloc with Effect streams for handling single-shot events separately from state, plus automatic state persistence with hydrated pattern. Inspired by MVI (Model-View-Intent) architecture. Features include side-effect management, type-safe state serialization, storage-agnostic persistence (SharedPreferences, Hive, etc.), and zero-boilerplate state restoration. </p>
 
   **Technologies:** Flutter,  Flutter Bloc  
   **Repository :** <span class="iconify"></span> [https://pub.dev/packages/blocfx](https://pub.dev/packages/blocfx)
@@ -86,7 +86,7 @@ Mobile developer with hands-on experience building modern applications using And
 
 **Informatics Engineering** : **Sep 2020 - May 2025**
 
-Universitas Komputer Indonesia (IPK: 3.11)  
+Universitas Komputer Indonesia
 : Bandung, Indonesia
 
 ## Skills
