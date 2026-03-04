@@ -11,7 +11,7 @@
 ## Profile
 
 <p align="justify">
-Mobile developer with hands-on experience building modern applications using Android Views (XML), Jetpack Compose, and Flutter. Skilled in designing responsive UIs and writing clean, maintainable code following Clean Architecture principles. Passionate about creating seamless mobile experiences and building scalable apps across native and cross-platform stacks.
+Mobile developer with expertise in building modern applications using Jetpack Compose, Flutter, or Android Views (XML). Skilled in designing responsive UIs and writing clean, maintainable code following Clean Architecture principles. Passionate about creating seamless mobile experiences and building scalable apps across native and cross-platform stacks.
 </p>
 
 ## Experience
@@ -49,12 +49,22 @@ Mobile developer with hands-on experience building modern applications using And
 - Conducted application testing and debugging to enhance performance.
 
 ## Projects
+- **Modifx** 
+
+  <p align="justify">A Flutter package that brings Compose-style modifiers to Flutter, eliminating widget nesting hell with a clean, chainable API. Inspired by Jetpack Compose's modifier system. Features include layout modifiers (padding, sizing, alignment), decoration modifiers (backgrounds, corners, shadows), gesture handlers, transforms, conditional modifiers, automatic performance optimization through modifier merging, and full type-safe IDE support. Reduces boilerplate code by ~30% while improving readability. </p>
+
+  **Technologies:** Flutter, Dart  
+  **Repository :** <span class="iconify"></span> [https://pub.dev/packages/modifx](https://pub.dev/packages/modifx)
+<br>
+<br>
 - **BlocFx** 
   
   <p align="justify">A Flutter package that extends flutter_bloc with Effect streams for handling single-shot events separately from state, plus automatic state persistence with hydrated pattern. Inspired by MVI (Model-View-Intent) architecture. Features include side-effect management, type-safe state serialization, storage-agnostic persistence (SharedPreferences, Hive, etc.), and zero-boilerplate state restoration. </p>
 
   **Technologies:** Flutter,  Flutter Bloc  
   **Repository :** <span class="iconify"></span> [https://pub.dev/packages/blocfx](https://pub.dev/packages/blocfx)
+<br>
+<br>
 
 - **Hotel Android TV Launcher** 
   
@@ -62,25 +72,20 @@ Mobile developer with hands-on experience building modern applications using And
 
   **Technologies:** Jetpack Compose, Hilt, Android TV  
   **Repository :** <span class="iconify"></span> [https://github.com/karuhun-developer/LauncherCompose](https://github.com/karuhun-developer/LauncherCompose)
-
+<br>
+<br>
 - **IPTV Streaming App** 
   
   <p align="justify">An IPTV application for watching TV broadcasts over the internet using HLS. Specifically designed for hotels with high performance and a modular architecture. </p>
 
   **Technologies:** ExoPlayer (HLS), Retrofit, Hilt, Jetpack Compose
-
+<br>
+<br>
 - **IDFiber Mapping** 
 
   <p align="justify">An Android application for field technicians to map fiber optic networks, recording terminal points (ODP) and cable routes. </p>
 
   **Technologies:** Android Views, Google Maps SDK, Java
-
-- **Cashier Application** 
-
-  <p align="justify">A cashier application built with Jetpack Compose, featuring transaction processing, product management, and sales history. Utilizes a modular architecture with Gradle build convention. </p>
-  
-  **Technologies:** Jetpack Compose, Hilt, Room, Multi-Module    
-  **Repository :** <span class="iconify"></span> [github.com/fajarxfce/CashierMultiModule](https://github.com/fajarxfce/CashierMultiModule)
 
 ## Education
 
