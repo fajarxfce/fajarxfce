@@ -98,6 +98,6 @@ Universitas Komputer Indonesia
 
 **Programming Languages:** <span class="iconify" data-icon="vscode-icons:file-type-kotlin"></span> Kotlin, <span class="iconify" data-icon="logos:java" data-inline="false"></span> Java, <span class="iconify" data-icon="logos:flutter" data-inline="false"></span> Flutter, <span class="iconify" data-icon="logos:dart" data-inline="false"></span> Dart ,<span class="iconify" data-icon="logos:php" data-inline="false"></span> PHP
 
-**Tools and Frameworks:** Jetpack Compose, Android Views, Hilt, Retrofit, Room, Git, Modular Architecture, Material Design
+**Tools and Frameworks:** Jetpack Compose, Flutter, Android Views, Hilt, Retrofit, Room, get it, Modular Architecture, 
 
 **Languages:** English (intermediate), Indonesian (native)
