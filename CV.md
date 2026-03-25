@@ -86,7 +86,8 @@ Mobile developer with expertise in building modern applications using Jetpack Co
   <p align="justify">An Android application for field technicians to map fiber optic networks, recording terminal points (ODP) and cable routes. </p>
 
   **Technologies:** Android Views, Google Maps SDK, Java
-
+<br>
+<br>
 ## Education
 
 **Informatics Engineering** : **Sep 2020 - May 2025**
