@@ -11,7 +11,7 @@
 ## Profile
 
 <p align="justify">
-Mobile developer with expertise in building modern applications using Jetpack Compose, Flutter, or Android Views (XML). Skilled in designing responsive UIs and writing clean, maintainable code following Clean Architecture principles. Passionate about creating seamless mobile experiences and building scalable apps across native and cross-platform stacks.
+Mobile Software Engineer specializing in Native Android, Flutter, and Compose Multiplatform ecosystems. Adept at turning product requirements into scalable, maintainable mobile applications while maintaining high engineering and UI standards. Experienced in end-to-end mobile development from architectural design to production deployment.
 </p>
 
 ## Experience
@@ -22,10 +22,10 @@ Mobile developer with expertise in building modern applications using Jetpack Co
 
 : **Aug 2025 - Present**
 
-- Contributed to the development of a Human Resource Management System (HRMS) mobile application.
-- Implemented Clean Architecture and Flutter BLoC to improve code maintainability, scalability, and testability.
-- Refactored the MVC-based structure into a more robust and industry-standard architecture.
-- Collaborated with the development team to ensure high-quality, consistent, and production-ready features.
+- Led the architectural modernization of the core Human Resource Management System (HRMS) mobile application, successfully refactoring legacy MVC code into Clean Architecture with BLoC.
+- Decoupled business logic from UI components, significantly improving code maintainability, testability, and feature delivery speed.
+- Integrated complex RESTful APIs and ensured robust state management, minimizing runtime crashes across production releases.
+- Collaborated closely with cross-functional teams to design, develop, and deliver scalable enterprise-grade mobile features.
 
 **PT. Media Akses Data (fortytv.id)** (Freelance)
 
@@ -33,10 +33,10 @@ Mobile developer with expertise in building modern applications using Jetpack Co
 
 : **Feb 2024 - Feb 2025**
 
-- Built a custom Android TV launcher for hotels using Jetpack Compose.
-- Built an HLS-based IPTV streaming application  
-- Optimized UI performance for Android TV devices and implemented a minimalist design.
-- Implemented dependency injection with Hilt and a modular project structure for scalability.
+- Engineered a specialized, high-performance Android TV launcher tailored for hotel hospitality ecosystems using Jetpack Compose and Leanback UI guidelines.
+- Built an HLS-based IPTV streaming client utilizing ExoPlayer, ensuring low-latency video playback and seamless stream switching.  
+- Designed modular project structures and configured dependency injection using Hilt to enhance scalability and test isolation.
+- Optimized rendering performance and memory utilization across low-to-mid spec Android TV hardware.
 
 **PT. Media Akses Data** (Internship)
 
@@ -44,61 +44,42 @@ Mobile developer with expertise in building modern applications using Jetpack Co
 
 : **Sep 2023 - Dec 2023**
 
-- Developed Android applications using Java and Android Views (XML).
-- Implemented fundamental features such as activity navigation, SQLite database usage, and API calls using Retrofit.
-- Conducted application testing and debugging to enhance performance.
+- Developed IDFiber Mapping, a field Android app for technicians to map fiber-optic distribution points (ODP) and cable routes.
+- Integrated Google Maps SDK for route plotting and SQLite for offline field data persistence.
+- Handled RESTful API communication via Retrofit and resolved bugs to ensure app stability.
 
 ## Projects
-- **Modifx** 
+- **Modifx** (<span class="iconify"></span>[https://pub.dev/packages/modifx](https://pub.dev/packages/modifx))
 
-  <p align="justify">A Flutter package that brings Compose-style modifiers to Flutter, eliminating widget nesting hell with a clean, chainable API. Inspired by Jetpack Compose's modifier system. Features include layout modifiers (padding, sizing, alignment), decoration modifiers (backgrounds, corners, shadows), gesture handlers, transforms, conditional modifiers, automatic performance optimization through modifier merging, and full type-safe IDE support. Reduces boilerplate code by ~30% while improving readability. </p>
+  - Authored a developer utility that brings Jetpack Compose-style modifiers to Flutter, resolving deep widget nesting with a clean, chainable API.
 
-  **Technologies:** Flutter, Dart  
-  **Repository :** <span class="iconify"></span> [https://pub.dev/packages/modifx](https://pub.dev/packages/modifx)
+  - Implemented layout, decoration, transform, and gesture modifiers with automatic modifier-merging optimizations, reducing UI boilerplate by ~30%.
 <br>
-<br>
-- **BlocFx** 
+- **BlocFx** (<span class="iconify"></span>[https://pub.dev/packages/blocfx](https://pub.dev/packages/blocfx))
   
-  <p align="justify">A Flutter package that extends flutter_bloc with Effect streams for handling single-shot events separately from state, plus automatic state persistence with hydrated pattern. Inspired by MVI (Model-View-Intent) architecture. Features include side-effect management, type-safe state serialization, storage-agnostic persistence (SharedPreferences, Hive, etc.), and zero-boilerplate state restoration. </p>
-
-  **Technologies:** Flutter,  Flutter Bloc  
-  **Repository :** <span class="iconify"></span> [https://pub.dev/packages/blocfx](https://pub.dev/packages/blocfx)
-<br>
+  - Designed an architectural extension for flutter_bloc introducing dedicated single-shot Effect streams (navigation, snackbars) alongside state emission.
+  - Implemented built-in state persistence supporting pluggable storage backends (Hive, SharedPreferences) with zero-boilerplate restoration.
 <br>
 
-- **Hotel Android TV Launcher** 
+- **Android TV Launcher** (<span class="iconify"></span>[https://github.com/karuhun-developer/LauncherCompose](https://github.com/karuhun-developer/LauncherCompose))
   
-  <p align="justify">A specialized Android TV launcher for hotels providing content and services for guests, including hotel information, room service, and access to applications like IPTV. </p>
+  - Developed a custom Android TV home screen interface supporting dynamic hotel service catalogues, room service integration, and direct app launching.
 
-  **Technologies:** Jetpack Compose, Hilt, Android TV  
-  **Repository :** <span class="iconify"></span> [https://github.com/karuhun-developer/LauncherCompose](https://github.com/karuhun-developer/LauncherCompose)
-<br>
-<br>
-- **IPTV Streaming App** 
-  
-  <p align="justify">An IPTV application for watching TV broadcasts over the internet using HLS. Specifically designed for hotels with high performance and a modular architecture. </p>
+  **Technologies:** Jetpack Compose, Hilt, Leanback  
 
-  **Technologies:** ExoPlayer (HLS), Retrofit, Hilt, Jetpack Compose
-<br>
-<br>
-- **IDFiber Mapping** 
+## Technical Skills
 
-  <p align="justify">An Android application for field technicians to map fiber optic networks, recording terminal points (ODP) and cable routes. </p>
+**Languages:** <span class="iconify" data-icon="vscode-icons:file-type-kotlin"></span> Kotlin, <span class="iconify" data-icon="logos:java" data-inline="false"></span> Java, <span class="iconify" data-icon="logos:dart" data-inline="false"></span> Dart
 
-  **Technologies:** Android Views, Google Maps SDK, Java
-<br>
-<br>
+**Mobile & Frameworks:** Android SDK, Jetpack Compose, Compose Multiplatform (CMP), Flutter, Android Views (XML), Material Design 3 
+
+**Architecture & State Management:** Clean Architecture, SOLID Principles, BLoC, MVI, MVVM, Multi-module Architecture
+
+**Libraries & Tooling:** Hilt, get_it, Coroutines & Flow, ExoPlayer, Gradle, Git
+
 ## Education
 
 **Informatics Engineering** : **Sep 2020 - May 2025**
 
 Universitas Komputer Indonesia
 : Bandung, Indonesia
-
-## Skills
-
-**Programming Languages:** <span class="iconify" data-icon="vscode-icons:file-type-kotlin"></span> Kotlin, <span class="iconify" data-icon="logos:java" data-inline="false"></span> Java, <span class="iconify" data-icon="logos:flutter" data-inline="false"></span> Flutter, <span class="iconify" data-icon="logos:dart" data-inline="false"></span> Dart ,<span class="iconify" data-icon="logos:php" data-inline="false"></span> PHP
-
-**Tools and Frameworks:** Jetpack Compose, Flutter, Android Views, Hilt, Retrofit, Room, get it, Modular Architecture, 
-
-**Languages:** English (intermediate), Indonesian (native)
